@@ -1,0 +1,33 @@
+#home{
+  background-color: #1ABC9C;
+}
+
+h1{
+  font-weight: 700;
+}
+
+.divider-1 {
+  position: relative;
+  display: inline-block;
+  width: 83px;
+  height: 4px;
+  background-color: white;
+  margin: 10px 20px 30px;
+  transform: translateX(-20px);
+}
+
+.icon-1{
+  position: absolute;
+  top: 480px;
+  transform: translateX(94px);
+}
+.divider-2 {
+  display: inline-block;
+  width: 83px;
+  height: 4px;
+  background-color: white;
+  margin: 10px auto 30px;
+}
+img{
+  width: 15%;
+}
